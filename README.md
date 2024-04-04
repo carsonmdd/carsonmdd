@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🏫 Currently studying Software Engineering at UC Irvine
+
 🧰 Known programming languages: Java, C++, Python
+
 🔭 Currently working on personal projects related to machine leanring
+
 👥 I’m looking to collaborate on projects through internships
+
 📫 How to reach me: <a href=”mailto:cmd52465@gmail.com”>cmd52465@gmail.com</a>

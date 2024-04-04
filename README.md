@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carson 👋
 
 <!--
 **carsonmdd/carsonmdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🏫 Currently studying Software Engineering at UC Irvine
+🧰 Known programming languages: Java, C++, Python
+🔭 Currently working on personal projects related to machine leanring
+👥 I’m looking to collaborate on projects through internships
+📫 How to reach me: <a href=”mailto:cmd52465@gmail.com”>cmd52465@gmail.com</a>

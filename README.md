@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🏫 Currently studying Software Engineering at UC Irvine
 
-🧰 Known programming languages: Python, Java, C++
+🧰 Known programming languages: Python, JavaScript, Java, C++
 
 🔭 Currently working on personal projects relating to web development
 

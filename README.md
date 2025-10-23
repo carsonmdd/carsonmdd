@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 🏫 Currently studying Software Engineering at UC Irvine
 
-🧰 Known programming languages: Python, JavaScript, Java, C++
+🧰 Known programming languages: Python, JavaScript, Java
 
 🔭 Currently working on personal projects relating to web development
 
-👥 I’m looking to collaborate on projects through internships
+👥 I’m looking to collaborate on projects through internships or other job opportunities!
 
 📫 How to reach me: <a href=”mailto:cmd52465@gmail.com”>cmd52465@gmail.com</a>
